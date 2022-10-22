@@ -2,10 +2,19 @@
 # Unity generated #
 # =============== #
 Temp/
-Obj/
+obj/
 UnityGenerated/
+Log/
+UserSettings/
 Library/
 Assets/AssetStoreTools*
+*/Temp/
+*/obj/
+*/UnityGenerated/
+*/Log/
+*/UserSettings/
+*/Library/
+*/Assets/AssetStoreTools*
 
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
@@ -20,6 +29,7 @@ ExportedObj/
 *.user
 *.unityproj
 *.booproj
+*.vscode
 
 # ============ #
 # OS generated #
